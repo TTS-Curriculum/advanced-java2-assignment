@@ -16,7 +16,7 @@ public class Product {
 		//Add as many products as you want to your Inventory Object using the addItem() method you defined 
 		myInventory.addItem(new Product("Airpods", 200.00));
 		myInventory.addItem(new Product("Crocs", 59.99));
-		myInventory.addItem(new Product("Crocs", 59.99));
+		myInventory.addItem(new Product("Legend of Zelda: Tears of the Kingdom", 69.99));
 
 		//Your task is to calculate the total price of all products in an Inventory object called myInventory. Follow these steps:
 		//1. Call the getItems method on your inventory object to retrieve the list of all products.
